@@ -6,7 +6,7 @@ Fiyat karşılaştırma sitesi olan Akakce.com u Crawler eden Bot API
 
 Bu API ve Chatbot demosunu nasıl geliştirdiğimi merak edenler için Medium yazısını okuyabilirsiniz
 
-![https://medium.com/@peacecwz/akakce-com-u-bot-framework-ile-chatbot-haline-getirelim-288f60320c8](https://medium.com/@peacecwz/akakce-com-u-bot-framework-ile-chatbot-haline-getirelim-288f60320c8)
+[https://medium.com/@peacecwz/akakce-com-u-bot-framework-ile-chatbot-haline-getirelim-288f60320c8](https://medium.com/@peacecwz/akakce-com-u-bot-framework-ile-chatbot-haline-getirelim-288f60320c8)
 
 # Kullanımı
 
